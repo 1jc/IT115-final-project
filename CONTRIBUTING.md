@@ -1,11 +1,11 @@
-# IT115 Group1 Project Contibuting rules
+# IT115 Final Project
 
 ## Contributing
 
 Any contributions are greatly appreciated. Please feel free to add any features or fixes you like. We will review the PR and be happy to add your work to this project.
 
-   - Fork the Project
-   - Create your Feature Branch (git checkout -b feature/NewFeature)
+   - Create local repository
+   - Create Feature Branch (git checkout -b feature/NewFeature)
    - Commit your Changes (git commit -m 'Add some NewFeature')
    - Push to the Branch (git push origin feature/NewFeature)
    - Open a Pull Request
@@ -22,4 +22,4 @@ Please be respectful of other contributors by:
 
 ### Acknowledgements
 
-This group project started during Spring 2022 with 5 North Seattle College Students based in Seattle, WA.
+This final project started during Spring 2022 with 5 North Seattle College Students based in Seattle, WA. by Joette, 1jc
